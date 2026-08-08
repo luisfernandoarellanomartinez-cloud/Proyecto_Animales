@@ -1,0 +1,14 @@
+[
+    {
+        "especie": "Gato",
+        "nombre": "Garfield",
+        "edad": 5,
+        "color_pelaje": "Naranja"
+    },
+    {
+        "especie": "Gato",
+        "nombre": "Con Botas",
+        "edad": 3,
+        "color_pelaje": "Azul"
+    }
+]
